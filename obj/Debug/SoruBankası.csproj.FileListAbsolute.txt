@@ -1,0 +1,18 @@
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe.config
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\bin\Debug\SoruBankası.pdb
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csprojResolveAssemblyReference.cache
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Properties.Resources.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.GenerateResource.Cache
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe.licenses
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.pdb
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.SoruGoster.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Anasayfa.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.SoruEkle.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.views.Rapor.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.views.SinavOlusturma.resources
+C:\Users\Hasancan\Documents\Visual Studio 2013\Projects\MVC(ÜrünYönetimi)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Report.resources
+C:\Users\PELİN\Desktop\QuizMaker(HASANCANEMİRHAN)\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe.config
+C:\Users\PELİN\Desktop\QuizMaker(HASANCANEMİRHAN)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe
+C:\Users\PELİN\Desktop\QuizMaker(HASANCANEMİRHAN)\SoruBankası\SoruBankası\obj\Debug\SoruBankası.pdb

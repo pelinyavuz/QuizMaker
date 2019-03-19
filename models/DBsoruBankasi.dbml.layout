@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBsoruBankasi">
+  <DataContextMoniker Name="/DBsoruBankasiDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f156b86a-5c0e-4da7-b363-bd6a3e83182d" absoluteBounds="3.375, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DBsoruBankasiDataContext/SinavBilgileri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9238ea00-2d6d-46e3-abe7-a4ee641d7352" absoluteBounds="3.39, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5484a48-ae34-4b4e-a3cc-80dc117dbef0" absoluteBounds="3.375, 3.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DBsoruBankasiDataContext/Sinav" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4bf8961-da2c-4581-87ff-a206c5e772fc" absoluteBounds="3.39, 3.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f08bcf8-b7de-4004-8454-ceb942700038" absoluteBounds="0.875, 0.5, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/DBsoruBankasiDataContext/Sorular" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1c1d8d2b-7bab-4a52-8917-18c6bbc20073" absoluteBounds="0.88999999999999968, 0.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

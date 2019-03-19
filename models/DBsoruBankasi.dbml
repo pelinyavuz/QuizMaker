@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="HCK" Class="DBsoruBankasiDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-ELT67LD\SQLEXPRESS;Initial Catalog=HCK;Integrated Security=True" SettingsObjectName="SoruBankası.Properties.Settings" SettingsPropertyName="HCKConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SinavBilgileri" Member="SinavBilgileris">
+    <Type Name="SinavBilgileri">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SinavAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Derslik" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GozetmenAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SoruSayisi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Kategori" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ZorlukDerecesi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sinav" Member="Sinavs">
+    <Type Name="Sinav">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SinavBilgileriId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SoruId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sorular" Member="Sorulars">
+    <Type Name="Sorular">
+      <Column Name="soruid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="soruTipi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="zorlukDerecesi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="kategori" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soruMetni" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="soruCevabi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="aSikki" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="bSikki" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="cSikki" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="dSikki" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="soruPuani" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
